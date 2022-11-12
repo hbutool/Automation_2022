@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5684a44e-e3b5-4d4c-9a88-43b9e25823e5" name="Changes" comment="My first testing Selenium Project">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HTML_Report/Automation_Report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HTML_Report/Screenshots/Sign In.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReusableLibrary/ReusableActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReusableLibrary/Reusable_Actions_Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReusableLibrary/Reusable_Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionItems/AI4_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionItems/AI4_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionItems/ActionItem_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionItems/ActionItem_01P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionItems/ActionItem_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionItems/ActionItem_AI3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionItems/Ai4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DAy8_102322/ClassAI_Hotels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DAy8_102322/ClassAI_Hotels1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day10_103022/T2_TestNG_GoogleSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day10_103022/T3_TestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day10_103022/T4_TestingNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day11_110522/T1_WebElements_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day11_110522/T2_Boolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day12_110622/AutomationTestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day12_110622/T1_ExtentReport_YahooScenario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day12_110622/T2_GoogleSearch_ReusableAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day12_110622/T3_Updated_YahooScenario_ReusableAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day12_110622/T3_YahooScenario_ReusableAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day13_111222/T1_screenshot_Yahoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day13_111222/T2_StringComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day1_100122/DataType_Concat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day1_100122/Day1Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day1_100122/Main_PrintStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day2_100222/T1_LinearArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day2_100222/T2_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day2_100222/T3_ForLoop_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day2_100222/T4_WhileLoop_LinearArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day3_100822/ReusableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day3_100822/T1_if_else_condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day3_100822/T2_Multiple_conditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day3_100822/T3_ArrayList_Loop_Conditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day3_100822/T4_VoidMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day3_100822/T5_ReturnMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day4_100922/T1_SplitCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day4_100922/T2_WebDriverExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day4_100922/T3_GoogleSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day4_100922/T4_GoogleSearch_DataDrivenTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day5_101522/T1_XpathTextContains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day5_101522/T2_ChromeOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_101622/T1_FindElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_101622/T2_WebElement_Mlcalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_101622/T3_mlcalc_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_101622/T4_Mcalc_Scroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day7_102222/T1_Select_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day7_102222/T2_SwitchTabs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day9_102922/T1_MouseActions_USPS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day9_102922/T2_ImplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day9_102922/T3_ExplicitWait_metLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day9_102922/T4_Reusable_own.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day9_102922/T4_USPS_Reusable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ReusableLibrary/ReusableActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ReusableLibrary/Reusable_Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Review_Session/Exercise1_05OCT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Review_Session/Exercise1_12OCT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Review_Session/Exercise2_05OCT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Review_Session/Exercise2_12OCT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Review_Session/Exercise3_12OCT.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FXRA660R3Sy7DVUhUlPev3DpJj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ReusableLibrary" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ReusableLibrary" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.T2_StringComparison">
+    <configuration name="T3_GoogleSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4_100922.T3_GoogleSearch" />
+      <module name="Maven_Automation_Project_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day4_100922.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T1_screenshot_Yahoo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Automation_Project_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day13_111222.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day13_111222" />
+      <option name="MAIN_CLASS_NAME" value="Day13_111222.T1_screenshot_Yahoo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T2_StringComparison" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Automation_Project_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day13_111222.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day13_111222" />
+      <option name="MAIN_CLASS_NAME" value="Day13_111222.T2_StringComparison" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/hunzabutool/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Automation_Project_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day13_111222.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="$USER_HOME$/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml" />
+      <option name="PACKAGE_NAME" value="Day13_111222" />
+      <option name="MAIN_CLASS_NAME" value="Day13_111222.T1_screenshot_Yahoo" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/hunzabutool/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Automation_Project_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day13_111222.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="$USER_HOME$/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml" />
+      <option name="PACKAGE_NAME" value="Day13_111222" />
+      <option name="MAIN_CLASS_NAME" value="Day13_111222.T1_screenshot_Yahoo" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.T2_StringComparison" />
+        <item itemvalue="TestNG./Users/hunzabutool/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml (1)" />
+        <item itemvalue="TestNG./Users/hunzabutool/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml" />
+        <item itemvalue="TestNG.T1_screenshot_Yahoo" />
+        <item itemvalue="Application.T3_GoogleSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5684a44e-e3b5-4d4c-9a88-43b9e25823e5" name="Changes" comment="" />
+      <created>1664636295677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664636295677</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My first testing Selenium Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="My first testing Selenium Project" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Maven_Automation_Project_2$T4_WhileLoop_LinearArray.ic" NAME="T4_WhileLoop_LinearArray Coverage Results" MODIFIED="1664729386098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Day2_100222.*</FILTER>
+    </SUITE>
+  </component>
+</project>
